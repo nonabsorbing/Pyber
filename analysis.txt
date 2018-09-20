@@ -1,0 +1,7 @@
+Observable Trends - 
+
+1. Urban drivers tend to give more rides than those in other city types.
+
+2. Rural drivers have higher average fares than those in other city types.
+
+3. Suburban drivers tend to give fewer rides than either Urban or Ruran drivers. 
